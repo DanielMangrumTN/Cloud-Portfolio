@@ -1,0 +1,16 @@
+[
+  {
+    "id": "cloud-portfolio",
+    "title": "Cloud Portfolio Site",
+    "date": "2026-11",
+    "source": "Personal",
+    "status": "In progress",
+    "summary": "This website. A static site on S3 behind CloudFront with HTTPS, a serverless visitor counter (API Gateway, Lambda, DynamoDB), all defined in Terraform and deployed by GitHub Actions using OIDC instead of stored keys.",
+    "tech": ["AWS S3", "CloudFront", "Lambda", "DynamoDB", "Terraform", "GitHub Actions", "Python"],
+    "links": {
+      "repo": "",
+      "live": "",
+      "writeup": ""
+    }
+  }
+]
